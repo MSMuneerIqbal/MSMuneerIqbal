@@ -33,9 +33,12 @@
 <a href="https://wa.me/923045820729" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/whatsapp.svg" alt="WhatsApp" height="30" width="30" />
 </a>
-
-
 </p>
+<h2> My CV</h2>
+<h3>You can download my CV using the Link below:</h3>
+
+[Download My CV](https://github.com/MSMuneerIqbal/My-CV/blob/main/CV%20M.pdf)
+
 <h3 align="left">Live Applications Links:</h3>
 <p align="left">
 - [Voice-To-Voice-Chat-Model](https://huggingface.co/spaces/Muneer-Iqbal/voice-chat)
