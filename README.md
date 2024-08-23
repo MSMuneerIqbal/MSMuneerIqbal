@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUNEER IQBAL</h1>
-<h3 align="center">GenAI and Machine Learning Engineer</h3>
+<h3 align="center">Generative AI, Machine Learning and Prompt Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU5MGpiMnZ6cTV0Ynl2cTdybGhlM3c5emM3ZHlmejRmaTVqeXN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp">
 
