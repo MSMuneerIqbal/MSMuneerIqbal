@@ -51,11 +51,11 @@ Currently, I am deep diving into Generative AI engineering, exploring its variou
 
 ### Acadmic Level Key Projects
 
-- **[Deep Learning-Based Lungs Disease Pnemonia Detection]([your-repo-link](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Lungs-Pnemonia-Classification-project))**: Designed and implemented a deep learning model using Convolutional neural networks (CNN) for image analysis. Library TensorFlow is used. This prject purpose to detect pnemonia disease from x-ray image.It takes image as input apply some operations and detect the pnemonia probability.
+- **[Deep Learning-Based Lungs Disease Pnemonia Detection](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Lungs-Pnemonia-Classification-project)**: Designed and implemented a deep learning model using Convolutional neural networks (CNN) for image analysis. Library TensorFlow is used. This prject purpose to detect pnemonia disease from x-ray image.It takes image as input apply some operations and detect the pnemonia probability.
 
 - **[Deep Learning-Based Image Classification](your-repo-link)**: Developed a convolutional neural network (CNN) to classify images with high accuracy. This project is Skin disease classification. the model is trained on four diseases. Takes an image of affected skin then classify the image affected with disease. 
 
-- **[Machine Learning for Predictive Analytics]([your-repo-link](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Heart%20disease%20prediction%20ML))**: Applied various ML algorithms to develop predictive models, achieving improved accuracy and efficiency. This project highlights my skills in data-driven predictive modeling. The project predict Heart Disease stages based on medical data.
+- **[Machine Learning for Predictive Analytics](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Heart%20disease%20prediction%20ML)**: Applied various ML algorithms to develop predictive models, achieving improved accuracy and efficiency. This project highlights my skills in data-driven predictive modeling. The project predict Heart Disease stages based on medical data.
 
 - **[Generative AI and Bot Development](your-repo-link)**: Created several bots utilizing generative AI technologies for dynamic and interactive applications. This experience has enhanced my expertise in Python programming and AI frameworks.
 
