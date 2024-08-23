@@ -45,7 +45,7 @@
 
 ## About Me
 
-Hello! I'm Muneer Iqbal, a graduate with a degree in Artificial Intelligence from The Islamia Univesity Of Bahawalpur with GPA(3.48/4) in july 2024. My academic and project experiences have equipped me with a solid foundation in Machine Learning (ML), Deep Learning (DL), Generative AI, and EDA.
+Hello! I'm Muneer Iqbal, Graduate with a degree in Artificial Intelligence from The Islamia Univesity Of Bahawalpur with GPA(3.48/4) in july 2024. My academic and project experiences have equipped me with a solid foundation in Machine Learning (ML), Deep Learning (DL), Generative AI, and EDA.
 
 Currently, I am deep diving into Generative AI engineering, exploring its various applications and advancements. My recent work focuses on developing and applying Generative AI technologies to create innovative solutions and interactive applications.
 
