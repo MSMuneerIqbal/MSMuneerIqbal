@@ -45,17 +45,17 @@
 
 ## About Me
 
-Hello! I'm [Your Name], a recent graduate with a degree in Artificial Intelligence from [Your University Name]. My academic and project experiences have equipped me with a solid foundation in Machine Learning (ML), Deep Learning (DL), Generative AI, and Data Analysis.
+Hello! I'm Muneer Iqbal, a graduate with a degree in Artificial Intelligence from The Islamia Univesity Of Bahawalpur with GPA(3.48/4) in july 2024. My academic and project experiences have equipped me with a solid foundation in Machine Learning (ML), Deep Learning (DL), Generative AI, and EDA.
 
 Currently, I am deep diving into Generative AI engineering, exploring its various applications and advancements. My recent work focuses on developing and applying Generative AI technologies to create innovative solutions and interactive applications.
 
-### Key Projects
+### Acadmic Level Key Projects
 
-- **[Deep Learning-Based Image Classification](your-repo-link)**: Developed a convolutional neural network (CNN) to classify images with high accuracy. This project demonstrates my ability to create and fine-tune complex models for image recognition tasks.
+- **[Deep Learning-Based Lungs Disease Pnemonia Detection]([your-repo-link](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Lungs-Pnemonia-Classification-project))**: Designed and implemented a deep learning model using Convolutional neural networks (CNN) for image analysis. Library TensorFlow is used. This prject purpose to detect pnemonia disease from x-ray image.It takes image as input apply some operations and detect the pnemonia probability.
 
-- **[Natural Language Processing (NLP)](your-repo-link)**: Designed and implemented a deep learning model using recurrent neural networks (RNN) for sentiment analysis. This showcases my proficiency in working with textual data and advanced neural network techniques.
+- **[Deep Learning-Based Image Classification](your-repo-link)**: Developed a convolutional neural network (CNN) to classify images with high accuracy. This project is Skin disease classification. the model is trained on four diseases. Takes an image of affected skin then classify the image affected with disease. 
 
-- **[Machine Learning for Predictive Analytics](your-repo-link)**: Applied various ML algorithms to develop predictive models, achieving improved accuracy and efficiency. This project highlights my skills in data-driven predictive modeling.
+- **[Machine Learning for Predictive Analytics]([your-repo-link](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Heart%20disease%20prediction%20ML))**: Applied various ML algorithms to develop predictive models, achieving improved accuracy and efficiency. This project highlights my skills in data-driven predictive modeling. The project predict Heart Disease stages based on medical data.
 
 - **[Generative AI and Bot Development](your-repo-link)**: Created several bots utilizing generative AI technologies for dynamic and interactive applications. This experience has enhanced my expertise in Python programming and AI frameworks.
 
@@ -67,9 +67,10 @@ Feel free to explore my projects and reach out if you have any questions or oppo
 
 **Connect with Me:**
 
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/muneeriqbal729)
 - [Twitter](your-twitter-profile)
-- [Email](mailto:your-email@example.com)
+- [Email](muneeriqbal729@gmail.com)
+- [WhatsApp](https://wa.me/923045820729)
 
 
 
