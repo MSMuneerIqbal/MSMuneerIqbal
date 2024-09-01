@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=MSMuneerIqbal&label=Profile%20views&color=0e75b6&style=flat" alt="MSMuneerIqbal" /> 
 </p>
 
+- ⚡ Achievements **Recently Attended the Pak Angle GenAI HeckaThon And Successfully Developed A Gen AI project**
+- <h3 align="left">Live Applications Link On HuggingFace:</h3>
+<p align="left">
+- [Ai Based English Learning Bot](https://huggingface.co/spaces/Muneer-Iqbal/buddy-speaking)
 
 - 🔭 I’m currently working on **Developing and fine-tuning Generative AI LLMs, Applied Generative AI**
 
@@ -42,6 +46,8 @@
 <h3 align="left">Live Applications Links:</h3>
 <p align="left">
 - [Voice-To-Voice-Chat-Model](https://huggingface.co/spaces/Muneer-Iqbal/voice-chat)
+<p align="left">
+- [Ai Based English Learning Bot](https://huggingface.co/spaces/Muneer-Iqbal/buddy-speaking)
 
 ## About Me
 
@@ -57,7 +63,7 @@ Currently, I am deep diving into Generative AI engineering, exploring its variou
 
 - **[Machine Learning for Predictive Analytics](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Heart%20disease%20prediction%20ML)**: Applied various ML algorithms to develop predictive models, achieving improved accuracy and efficiency. This project highlights my skills in data-driven predictive modeling. The project predict Heart Disease stages based on medical data.
 
-- **[Generative AI and Bot Development](your-repo-link)**: Created several bots utilizing generative AI technologies for dynamic and interactive applications. This experience has enhanced my expertise in Python programming and AI frameworks.
+- **[Generative AI and Bot Development](https://github.com/MSMuneerIqbal/Pak-Angels-Generative-Ai-Training-Learnings/tree/main/GenAi-Hachathon-Project)**: Created several bots utilizing generative AI technologies for dynamic and interactive applications. This experience has enhanced my expertise in Python programming and AI frameworks.
 
 I am passionate about leveraging AI to drive innovation and solve real-world problems. My current focus on Generative AI allows me to explore cutting-edge technologies and apply them to create impactful solutions.
 
