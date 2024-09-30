@@ -41,7 +41,7 @@
 <h2> My CV</h2>
 <h3>You can download my CV using the Link below:</h3>
 
-[Download My CV](https://github.com/MSMuneerIqbal/My-CV/blob/main/CV%20M.pdf)
+[Download My CV](https://github.com/MSMuneerIqbal/My-CV/blob/main/Muneer%20cv.pdf)
 
 <h3 align="left">Live Applications Links:</h3>
 <p align="left">
