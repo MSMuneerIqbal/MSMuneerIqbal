@@ -64,7 +64,7 @@ Currently, I am deep diving into Generative AI engineering, exploring its variou
 - **[Machine Learning for Predictive Analytics](https://github.com/MSMuneerIqbal/Ai-projects-ML-DL-NLP-GenAI/tree/main/Heart%20disease%20prediction%20ML)**: Applied various ML algorithms to develop predictive models, achieving improved accuracy and efficiency. This project highlights my skills in data-driven predictive modeling. The project predict Heart Disease stages based on medical data.
 
 - **[Generative AI and Bot Development](https://github.com/MSMuneerIqbal/Pak-Angels-Generative-Ai-Training-Learnings/tree/main/GenAi-Hachathon-Project)**: Created several bots utilizing generative AI technologies for dynamic and interactive applications. This experience has enhanced my expertise in Python programming and AI frameworks.
-
+- **[sentiments Analysis on different Daraz product data](https://github.com/MSMuneerIqbal/Sentiments-Analysis-NoteBooks-Daraz-productData)**: Sentiment analysis is a natural language processing (NLP) technique used to determine the emotional tone behind a body of text. This project aims to classify text reviews from users into three sentiment categories using various machine learning and deep learning models.
 I am passionate about leveraging AI to drive innovation and solve real-world problems. My current focus on Generative AI allows me to explore cutting-edge technologies and apply them to create impactful solutions.
 
 Feel free to explore my projects and reach out if you have any questions or opportunities for collaboration. I'm always open to discussing new ideas and tackling challenging problems!
