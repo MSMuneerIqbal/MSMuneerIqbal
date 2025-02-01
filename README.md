@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUNEER IQBAL</h1>
-<h3 align="center">Generative AI, Machine Learning and Prompt Engineering</h3>
+<h3 align="center">"As a graduate in Artificial Intelligence, I am passionate about applied Generative AI, Retrieval-Augmented Generation (RAG), LangChain, and Agentic AI. I specialize in developing intelligent solutions that bridge the gap between research and real-world applications."</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU5MGpiMnZ6cTV0Ynl2cTdybGhlM3c5emM3ZHlmejRmaTVqeXN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp">
 
@@ -16,15 +16,15 @@
 <p align="left">
 - [Ai Based English Learning Bot](https://huggingface.co/spaces/Muneer-Iqbal/buddy-speaking)
 
-- 🔭 I’m currently working on **Developing and fine-tuning Generative AI LLMs, Applied Generative AI**
+- 🔭 I’m currently working on **Developing and fine-tuning Generative AI LLMs, AI agents**
 
-- 🌱 I’m currently learning **Advanced Generative AI techniques and deployment strategies**
+- 🌱 I’m currently learning **Advanced Generative and Agentic AI solutions**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Generative AI, and model deployment**
+- 💬 Ask me about **Machine Learning, Deep Learning, Generative and Agentic AI**
 
 - 📫 How to reach me **[muneeriqbal729@gmail.com]**
 
-- ⚡ Fun fact **When I’m not coding, I enjoy exploring new AI research papers and attending tech meetups**
+- ⚡ Fun fact **When I’m not coding, I enjoy exploring new AI research papers and attending tech meetups and learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,9 +51,11 @@
 
 ## About Me
 
-Hello! I'm Muneer Iqbal, Graduate with a degree in Artificial Intelligence from The Islamia Univesity Of Bahawalpur with GPA(3.48/4) in july 2024. My academic and project experiences have equipped me with a solid foundation in Machine Learning (ML), Deep Learning (DL), Generative AI, and EDA.
+Hello! I'm Muneer Iqbal, a graduate in Artificial Intelligence from The Islamia University of Bahawalpur (GPA: 3.48/4), Class of July 2024. My academic journey and hands-on projects have provided me with a strong foundation in Machine Learning (ML), Deep Learning (DL), Generative AI, and Exploratory Data Analysis (EDA).
 
-Currently, I am deep diving into Generative AI engineering, exploring its various applications and advancements. My recent work focuses on developing and applying Generative AI technologies to create innovative solutions and interactive applications.
+Currently, I am deeply engaged in Generative AI engineering, Retrieval-Augmented Generation (RAG), LangChain, and Agentic AI, exploring their real-world applications. My recent work focuses on building intelligent, interactive AI-driven solutions that bridge the gap between research and practical implementation.
+
+I'm always eager to learn, collaborate, and contribute to innovative AI projects. Let's connect and build the future of AI together!
 
 ### Acadmic Level Key Projects
 
