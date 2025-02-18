@@ -12,9 +12,9 @@
 </p>
 
 - ⚡ Achievements **Recently Attended the Pak Angle GenAI HeckaThon And Successfully Developed A Gen AI project**
-- <h3 align="left">Live Applications Link On HuggingFace:</h3>
+- <h3 align="left">Know About Me and See projects: Visit My Website</h3>
 <p align="left">
-- [Ai Based English Learning Bot](https://huggingface.co/spaces/Muneer-Iqbal/buddy-speaking)
+- [Webpage](https://muneer-iqbal.vercel.app/)
 
 - 🔭 I’m currently working on **Developing and fine-tuning Generative AI LLMs, AI agents**
 
