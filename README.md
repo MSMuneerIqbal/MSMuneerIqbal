@@ -15,6 +15,7 @@
 <a href="https://wa.me/923045820729"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://huggingface.co/Muneer-Iqbal"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="https://www.kaggle.com/muneeriqbal24"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://panaversity.org/p/muneeriqbal729-lf7k"><img src="https://img.shields.io/badge/Verified%20Credentials-7C3AED?style=for-the-badge&logo=coursera&logoColor=white" alt="Panaversity verified credentials"/></a>
 
 <br/>
 
@@ -148,12 +149,11 @@ Right now I'm building agentic AI systems at **Semantechs**, co-founding **Webot
 
 ## 💼 Where I'm Working
 
-| Role | Organisation | Focus |
-|:--|:--|:--|
-| Agentic AI Engineer | **Semantechs** | Multi-agent orchestration and AI assistants for enterprise clients |
-| Co-Founder & AI Engineer | **WebotechStudio** | Large-scale OLX-style marketplace for the Saudi market |
-| SaaS Developer | **OptifyServe** | Business optimisation SaaS for the UAE market |
-| Full-Stack Developer | **7Star Laptops** | POS suite and the 7starbattery.pk e-commerce platform |
+| Role | Organisation | Since | Focus |
+|:--|:--|:--|:--|
+| AI Agent Engineer | **Semantechs** | Jan 2026 | Multi-agent orchestration, MCP servers, and AI assistants for enterprise clients |
+| Software Engineer | **7Star Laptop Battery Station** | Jan 2026 | POS suite, warehouse stock systems, and the 7starbattery.pk platform |
+| SaaS Application Developer | **OptifyServe** | Jan 2026 | UAE-based business optimisation and automation SaaS |
 
 ---
 
@@ -180,15 +180,29 @@ Right now I'm building agentic AI systems at **Semantechs**, co-founding **Webot
 
 ---
 
-## 🎓 Education & Certifications
+## 🏅 Verified Certifications
+
+All exams below are independently verifiable on my
+**[Panaversity credential page →](https://panaversity.org/p/muneeriqbal729-lf7k)**
+— *5 exams passed · 74% average*
+
+| Certification | Code | Date | Score |
+|:--|:--|:--|:--|
+| [Agent Factory Fundamentals: Building Digital FTEs](https://panaversity.org/p/muneeriqbal729-lf7k) | `L1:P1-AGFF` | Feb 2026 | 78% |
+| [Model Context Protocol (MCP) Level 2 Certification](https://panaversity.org/p/muneeriqbal729-lf7k) | `L2:P2-MCP` | Nov 2025 | 73% |
+| [Prompt & Context Engineering](https://panaversity.org/p/muneeriqbal729-lf7k) | `L1:P0-PTE` | Sep 2025 | 73% |
+| [Level 2 Fundamentals of Agentic AI Professional](https://panaversity.org/p/muneeriqbal729-lf7k) | `L2:P1-PAI` | Jul 2025 | 70% |
+| [Fundamentals of Agentic AI Exam](https://panaversity.org/p/muneeriqbal729-lf7k) | `L1:P4-FAI` | Jun 2025 | 78% |
+| Applied Generative AI Fundamentals — Pak Angels | — | 2024 | — |
+
+---
+
+## 🎓 Education
 
 | Credential | Institution | Year |
 |:--|:--|:--|
-| Agentic AI & MCP Development | PIAIC — Presidential Initiative for AI & Computing | 2025 – present |
-| Generative AI Engineering | PIAIC | 2024 |
-| Applied Generative AI Fundamentals | Pak Angels | 2024 |
-| Cloud-Native Modern Python Development | PIAIC | 2024 |
-| BS (ADP) Artificial Intelligence | The Islamia University of Bahawalpur | 2022 – 2024 |
+| [Certified Cloud Applied Generative AI Engineer](https://panaversity.org/p/muneeriqbal729-lf7k) | PIAIC — Presidential Initiative for AI & Computing | 2024 – 2025 |
+| BS (ADP) Artificial Intelligence — CGPA 3.48 / 4.00 | The Islamia University of Bahawalpur | 2022 – 2024 |
 | BCS, Computer Science | Govt. Degree College, Dunyapur | 2019 – 2022 |
 
 📄 [**View full CV**](https://drive.google.com/file/d/1-P8tWUAzVaUTRjL-JLC9foBHte-XxMTV/view?usp=drive_link)
