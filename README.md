@@ -33,7 +33,7 @@ I'm an **Agentic AI Engineer** who ships AI that actually runs in production —
 
 I design **autonomous multi-agent systems**, **RAG pipelines** over private documents, and the **full-stack apps** that put them in front of real users. I work end to end: model and agent orchestration, FastAPI backends, Next.js frontends, and deployment.
 
-Right now I'm building agentic AI systems at **Semantechs**, co-founding **WebotechStudio**, and running POS/SaaS products for retail and UAE clients. Before that: **BS (ADP) Artificial Intelligence** at The Islamia University of Bahawalpur, and Generative AI + Agentic AI engineering at **PIAIC**.
+Since January 2026 I've been building agentic AI systems at **Semantechs**, retail software at **7Star Laptop Battery Station**, and a UAE-based SaaS platform at **OptifyServe**. Before that: **BS (ADP) Artificial Intelligence** at The Islamia University of Bahawalpur, and Agentic AI engineering at **PIAIC** — [5 certifications, independently verified](https://panaversity.org/p/muneeriqbal729-lf7k).
 
 > 💬 **Have a problem you want automated?** [Email me](mailto:muneeriqbal729@gmail.com) or [message on WhatsApp](https://wa.me/923045820729) — I reply within 24 hours.
 
