@@ -1,413 +1,216 @@
+<!-- ==================== BANNER ==================== -->
 <div align="center">
 
-# 👋 Hey, I'm Muneer Iqbal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:00d8ff&height=190&section=header&text=Muneer%20Iqbal&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Agentic%20AI%20Engineer%20%7C%20GenAI%20%26%20RAG%20%7C%20Full-Stack&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="Muneer Iqbal — Agentic AI Engineer"/>
 
-## 🤖 Full-Stack AI/ML & Agentic AI Developer | GenAI Engineer
+<a href="https://muneer-iqbal.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D8FF&center=true&vCenter=true&width=620&lines=I+build+AI+agents+that+do+real+work.;RAG+systems+over+your+own+documents.;Multi-agent+automation%2C+shipped+to+production.;Full-stack+apps+with+AI+built+in." alt="Typing SVG"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muneeriqbal729/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MSMuneerIqbal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web)](https://muneer-iqbal.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:muneeriqbal729@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923045820729)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MSMuneerIqbal&label=Profile%20Views&color=0e75b6&style=flat-square)
+<a href="https://muneer-iqbal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/muneeriqbal729/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:muneeriqbal729@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/923045820729"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://huggingface.co/Muneer-Iqbal"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://www.kaggle.com/muneeriqbal24"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MSMuneerIqbal&label=Profile%20Views&color=00d8ff&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Based%20in-Lahore,%20Pakistan%20(PKT)-0f172a?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-2ea44f?style=flat-square" alt="Availability"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About
 
-I'm a **Generative AI specialist** and **Full-Stack Developer** with deep expertise in building intelligent, scalable applications. My passion lies in leveraging cutting-edge AI technologies to solve real-world problems and drive innovation.
+I'm an **Agentic AI Engineer** who ships AI that actually runs in production — not demos.
 
-**AI Graduate** | **Pakistan Institute of AI (PIAIC)** | **Pak Angels GenAI Hackathon Participant**
+I design **autonomous multi-agent systems**, **RAG pipelines** over private documents, and the **full-stack apps** that put them in front of real users. I work end to end: model and agent orchestration, FastAPI backends, Next.js frontends, and deployment.
 
-### 🌟 Current Focus
-- 🤖 **Agentic AI Systems** - Multi-agent orchestration and automation
-- 🧠 **Generative AI & LLMs** - OpenAI, Claude, Gemini, Groq integrations
-- 📚 **RAG Systems** - Retrieval-Augmented Generation and document intelligence
-- 💻 **Full-Stack Development** - Modern web applications with AI integration
+Right now I'm building agentic AI systems at **Semantechs**, co-founding **WebotechStudio**, and running POS/SaaS products for retail and UAE clients. Before that: **BS (ADP) Artificial Intelligence** at The Islamia University of Bahawalpur, and Generative AI + Agentic AI engineering at **PIAIC**.
+
+> 💬 **Have a problem you want automated?** [Email me](mailto:muneeriqbal729@gmail.com) or [message on WhatsApp](https://wa.me/923045820729) — I reply within 24 hours.
 
 ---
 
-## 📊 Portfolio Overview
+## 🎯 What I Can Build For You
 
-<div align="center">
-
-| 📈 Metric | 📊 Value |
-|-----------|---------|
-| **Total Projects** | 89 |
-| **Public Projects** | 58 |
-| **Private Projects** | 31 |
-| **Languages** | Python, TypeScript, JavaScript |
-| **AI Frameworks** | 8+ |
-| **Skill Categories** | 9 |
-| **Years Experience** | 2+ |
-
-</div>
+| | Service | What you get | Stack |
+|:--:|:--|:--|:--|
+| 🤖 | **AI Agents & Automation** | Autonomous agents that research, decide and act across your tools — with human-in-the-loop checkpoints | OpenAI Agents SDK, CrewAI, LangGraph, n8n |
+| 📚 | **RAG / "Chat with your data"** | Private knowledge assistant grounded in your PDFs, contracts and internal docs, with citations | LangChain, Pinecone, Gemini, Groq, HF embeddings |
+| 🔌 | **MCP Servers & Integrations** | Custom tools that plug your internal systems straight into Claude, ChatGPT or your own agents | Python, MCP, FastAPI, REST |
+| 💬 | **AI Assistants & Chatbots** | Branded conversational products with streaming UI, multi-language and tool calling | Chainlit, Streamlit, Next.js, LiteLLM |
+| 🧠 | **ML & Predictive Models** | Classification, forecasting, NLP and computer-vision models, deployed behind an API or dashboard | scikit-learn, TensorFlow, PyTorch, Pandas |
+| 🌐 | **Full-Stack AI Products** | The whole thing — auth, database, payments, dashboard, and AI features that earn their keep | Next.js, TypeScript, FastAPI, PostgreSQL, Docker |
 
 ---
 
-## 🚀 Key Expertise Areas
+## 🛠️ Tech Stack
 
-### 🤖 Agentic AI Systems (6 Projects)
-Autonomous AI agents for complex task automation
-- **Weather Agent** - Real-time forecasting with Chainlit UI
-- **Market Trends Analyst** - Data-driven market analysis
-- **Hospital AI Assistant** - Healthcare operations automation
-- **Upwork Proposal Agent** - Intelligent proposal generation
+**AI / Agents**
 
-### 📚 Generative AI & RAG (6 Projects)
-RAG systems and document intelligence
-- **Document Query Assistant** - Gemini-powered document analysis
-- **Chat with Your Documents** - LangChain-based interaction
-- **Multi-Search RAG Tool** - Multi-source web search integration
-- **Islamic Inheritance Calculator** - MCP Server implementation
-
-### 🧠 Machine Learning & Data Science (9 Projects)
-ML/DL models and predictive systems
-- **Heart Disease Classification** - Medical prediction system
-- **Image Restoration** - Deep learning with autoencoders
-- **Sentiment Analysis** - NLP on e-commerce data
-- **English Learning Bot** - GenAI Hackathon winner
-
-### 💻 Web Applications (5 Projects)
-Full-stack modern applications
-- **Portfolio Website** - Next.js + TypeScript
-- **E-commerce Platform** - Kashibaba.pk marketplace
-- **DeFi Dashboard** - Cryptocurrency tracking
-- **AI Tutor Platform** - Adaptive learning system
-
-### 🏢 Business Applications (7 Projects)
-Enterprise solutions
-- **POS System** - Point of Sale management
-- **Inventory System** - Real-time stock tracking
-- **Warehouse Management** - Raw stock application
-- **OptifySoft SaaS** - Business optimization platform
-
-### 💬 Chatbots & Conversational AI (4 Projects)
-Interactive AI interfaces
-- Chainlit-powered chatbots
-- Web search integration
-- Multi-language support
-
-### 📖 Educational Resources (9 Projects)
-Comprehensive learning materials
-- Learn Generative AI course
-- Modern Python 3.12+ guide
-- Cloud-Native Development
-- LLM Fine-tuning tutorial
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Servers-0f172a?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-4B32C3?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-0B0B0B?style=flat-square&logo=pinecone&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**ML / Data**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🔧 Framework & Specialty
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-412991?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF0000?style=flat-square&logo=streamlit&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-0099FF?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-FFFFFF?style=flat-square&logo=pinecone)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-00FF00?style=flat-square)
+**Backend & Frontend**
 
-### 💻 Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🎨 Frontend Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+**Ship it**
 
-### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Core Skills
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-- ✅ LLMs & Generative AI
-- ✅ CrewAI Framework
-- ✅ LangChain & RAG
-- ✅ Machine Learning
-- ✅ Deep Learning
-- ✅ Natural Language Processing
-- ✅ Computer Vision
-- ✅ Time Series Analysis
-- ✅ Sentiment Analysis
-
-</td>
-<td width="50%">
-
-### 💻 Backend & APIs
-- ✅ Python (FastAPI, Django)
-- ✅ RESTful API Design
-- ✅ MCP Servers
-- ✅ Database Design
-- ✅ PostgreSQL & MongoDB
-- ✅ Vector Databases
-- ✅ Data Processing
-- ✅ Authentication & Security
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 Frontend Development
-- ✅ React & Next.js
-- ✅ TypeScript & JavaScript
-- ✅ Tailwind CSS
-- ✅ Responsive Design
-- ✅ UI/UX Implementation
-- ✅ State Management
-- ✅ Web Performance
-
-</td>
-<td width="50%">
-
-### 🚀 DevOps & Tools
-- ✅ Docker & Containers
-- ✅ CI/CD Pipelines
-- ✅ Git & GitHub
-- ✅ Cloud Platforms
-- ✅ Server Deployment
-- ✅ Database Management
-- ✅ Monitoring & Logging
-
-</td>
-</tr>
-</table>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-0099FF?style=flat-square)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌟 Agentic AI Systems
-```
-🔗 Weather Agent with Chainlit & OpenAI SDK
-📍 Real-time weather forecasting with conversational AI
-🛠️ Tech: Python, Chainlit, OpenAI, FastAPI
+### 🤖 Agentic AI & Automation
 
-🔗 Market Trends Analyst Agent
-📍 Autonomous market analysis and forecasting
-🛠️ Tech: Python, CrewAI, Data Analysis
-
-🔗 Hospital AI Assistant
-📍 Healthcare operations automation platform
-🛠️ Tech: Python, LLMs, FastAPI, Database
-```
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[Weather Agent](https://github.com/MSMuneerIqbal/Weather-Agent-with-Chainlit-OpenAI-Agent-SDK)** | Conversational agent that calls a live weather API through function calling and answers in natural language | Python · OpenAI Agents SDK · Chainlit · Gemini |
+| **[Market Trends Analyst](https://github.com/MSMuneerIqbal/Market_Trends_Analyst_Agent)** | Multi-agent crew that gathers market data and produces an analyst-style trend report | Python · CrewAI |
+| **[Agent Skills](https://github.com/MSMuneerIqbal/Agent-skills)** | Reusable skill definitions and tooling for agent workflows | Python · Agent SDK |
 
 ### 📚 Generative AI & RAG
-```
-🔗 Document Query Assistant
-📍 Gemini-powered document intelligence
-🛠️ Tech: Python, Gemini, Streamlit, RAG
 
-🔗 Chat with Your Documents
-📍 Interactive document analysis
-🛠️ Tech: Python, LangChain, LLMs
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[Document Query Assistant](https://github.com/MSMuneerIqbal/Document-QueryAssistant-groundx-gemini-streamlit)** | Upload documents, ask questions, get grounded answers via GroundX + Gemini | Python · Gemini · GroundX · Streamlit |
+| **[Chat with Your Documents](https://github.com/MSMuneerIqbal/chat-with-your-documents)** | LangChain RAG pipeline for conversational document Q&A | Python · LangChain · LLMs |
+| **[RAG with Groq + Local Embeddings](https://github.com/MSMuneerIqbal/Rag-streamlit-groq-Embed-localhf)** | Fast RAG using Groq inference with local Hugging Face embeddings — low cost, low latency | Python · Groq · HF · Streamlit |
+| **[Islamic Inheritance MCP Server](https://github.com/MSMuneerIqbal/Islamic-Inheritance-pdf-report-generator-MCP-Server)** | FastMCP server exposing a `calculate_inheritance` tool — Hanafi cash/land shares down to fractional Marla, output as a PDF report | Python · FastMCP · ReportLab |
+| **[Multi-Search RAG Tool](https://github.com/MSMuneerIqbal/MultiSearch-Tool-RAG-WEB)** | Retrieval across multiple web sources, merged into one grounded answer | Python · RAG · Web APIs |
 
-🔗 Multi-Search RAG Tool
-📍 Multi-source web search with RAG
-🛠️ Tech: Python, RAG, Web APIs
-```
+### 🧠 Machine Learning & Computer Vision
 
-### 💻 Full-Stack Applications
-```
-🔗 Portfolio Website
-📍 Professional portfolio with project showcase
-🛠️ Tech: Next.js, TypeScript, Tailwind CSS
-🌐 Live: https://muneer-iqbal.vercel.app
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[Heart Disease Classification](https://github.com/MSMuneerIqbal/streamlit_heart_disease-classification-project)** | Clinical risk classifier with an interactive Streamlit prediction UI | Python · scikit-learn · Streamlit |
+| **[Image Restoration (Autoencoders)](https://github.com/MSMuneerIqbal/Image-Restoration-DL_Autoencoders)** | Deep autoencoder that denoises and restores degraded images | Python · TensorFlow |
+| **[Hand-Tracked Snake Game](https://github.com/MSMuneerIqbal/HandTracked-CV-AI-SnakeGame)** | Real-time hand-tracking controls a classic game — computer vision, no controller | Python · OpenCV · MediaPipe |
+| **[E-commerce Sentiment Analysis](https://github.com/MSMuneerIqbal/Sentiments-Analysis-NoteBooks-Daraz-productData)** | NLP sentiment pipeline over scraped Daraz product reviews | Python · NLP · Pandas |
+| **[English Learning Bot](https://github.com/MSMuneerIqbal/Ai-Based-English-Learning-Bot-GenAi-Hackathon-prject)** | Speaking-practice bot for non-native English learners — built for the Pak Angels GenAI Hackathon | Python · NLP · GenAI |
 
-🔗 Kashibaba.pk
-📍 E-commerce marketplace platform
-🛠️ Tech: Next.js, TypeScript, Database
+### 🌐 Full-Stack & Business Applications
 
-🔗 DeFi Dashboard
-📍 Cryptocurrency tracking and analysis
-🛠️ Tech: TypeScript, React, Finance APIs
-```
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[Portfolio Website](https://github.com/MSMuneerIqbal/portfolio-web)** — [🔗 live](https://muneer-iqbal.vercel.app) | Animated AI-themed portfolio with categorised project showcase | Next.js · TypeScript · Tailwind · Framer Motion |
+| **[Kashibaba.pk](https://github.com/MSMuneerIqbal/kashibaba.pk)** | E-commerce marketplace for listings and sales | Next.js · TypeScript |
+| **[7Star Shop Inventory](https://github.com/MSMuneerIqbal/7star-shop-inventory)** | Real-time stock tracking for a retail computer shop | Python · Database |
+| **[Bookshop Inventory](https://github.com/MSMuneerIqbal/Inventry-management-Bookshop)** | Inventory management for bookshop operations | HTML · CSS · Database |
 
-### 🧠 Machine Learning Projects
-```
-🔗 Heart Disease Classification
-📍 Medical prediction system with Streamlit UI
-🛠️ Tech: Python, Scikit-learn, Streamlit
+<sub>🔒 Additional client work is in private repos — Qyra agentic AI MVP, Hospital AI Assistant, Upwork Proposal Agent, Agentic AI Tutor, OptifyServe SaaS, and the 7Star POS suite. Happy to walk through these on a call.</sub>
 
-🔗 Image Restoration with Autoencoders
-📍 Deep learning image enhancement
-🛠️ Tech: Python, TensorFlow, Deep Learning
+### 📖 Learning Resources I Maintain
 
-🔗 English Learning Bot (GenAI Hackathon)
-📍 AI-powered language practice platform
-🛠️ Tech: Python, NLP, GenAI
-```
+[Learn Generative AI](https://github.com/MSMuneerIqbal/learn-generative-ai) · [Modern Python](https://github.com/MSMuneerIqbal/learn-modern-python) · [Cloud-Native Python](https://github.com/MSMuneerIqbal/learn-cloud-native-modern-python) · [Fine-Tuning LLMs](https://github.com/MSMuneerIqbal/learn-fine-tuning-llms) · [Low-Code Agentic AI](https://github.com/MSMuneerIqbal/learn-low-code-agentic-ai)
 
 ---
 
-## 🎯 Quick Stats
+## 💼 Where I'm Working
+
+| Role | Organisation | Focus |
+|:--|:--|:--|
+| Agentic AI Engineer | **Semantechs** | Multi-agent orchestration and AI assistants for enterprise clients |
+| Co-Founder & AI Engineer | **WebotechStudio** | Large-scale OLX-style marketplace for the Saudi market |
+| SaaS Developer | **OptifyServe** | Business optimisation SaaS for the UAE market |
+| Full-Stack Developer | **7Star Laptops** | POS suite and the 7starbattery.pk e-commerce platform |
+
+---
+
+## 🌱 Currently Learning & Building
+
+- 🧩 **Multi-agent orchestration** — planner/executor patterns, memory, and reliable tool use
+- 🔌 **MCP server development** — exposing internal systems as first-class agent tools
+- 🎯 **LLM fine-tuning** for domain-specific tasks
+- 📊 **Enterprise RAG** — evaluation, guardrails, and citation quality at scale
+- ⚡ **Low-code agentic AI** with n8n for fast client automation wins
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSMuneerIqbal&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MSMuneerIqbal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MSMuneerIqbal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MSMuneerIqbal&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSMuneerIqbal&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=MSMuneerIqbal&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
-
----
-
-## 🏆 Achievements & Highlights
-
-✨ **Built 15+ AI-powered applications** using LLMs and intelligent agents
-
-✨ **Developed multiple SaaS products** for business automation and optimization
-
-✨ **Created comprehensive educational resources** in Generative AI and modern Python
-
-✨ **Specialized in RAG systems** for document intelligence and data analysis
-
-✨ **Expert in CrewAI, LangChain, and OpenAI SDKs** for agent development
-
-✨ **Built enterprise inventory systems** for retail businesses
-
-✨ **GenAI Hackathon participant** - Pak Angels
-
-✨ **PIAIC Graduate** - Pakistan Institute of Artificial Intelligence & Cloud Computing
 
 ---
 
 ## 🎓 Education & Certifications
 
-| 🎖️ Certification | 🏢 Organization | 📅 Year |
-|-----------------|-----------------|--------|
-| **Generative AI Engineering** | Pakistan Institute of AI (PIAIC) | 2024 |
-| **Applied Generative AI Fundamentals** | Pak Angels | 2024 |
-| **Cloud-Native Modern Python** | PIAIC | 2024 |
-| **AI Engineering Graduate** | Pakistan Institute of AI | 2024 |
+| Credential | Institution | Year |
+|:--|:--|:--|
+| Agentic AI & MCP Development | PIAIC — Presidential Initiative for AI & Computing | 2025 – present |
+| Generative AI Engineering | PIAIC | 2024 |
+| Applied Generative AI Fundamentals | Pak Angels | 2024 |
+| Cloud-Native Modern Python Development | PIAIC | 2024 |
+| BS (ADP) Artificial Intelligence | The Islamia University of Bahawalpur | 2022 – 2024 |
+| BCS, Computer Science | Govt. Degree College, Dunyapur | 2019 – 2022 |
+
+📄 [**View full CV**](https://drive.google.com/file/d/1-P8tWUAzVaUTRjL-JLC9foBHte-XxMTV/view?usp=drive_link)
 
 ---
 
-## 📁 All Projects by Category
+## 🤝 Let's Work Together
 
-### 🔗 Quick Links to Repositories
+I take on **freelance and contract work** — from a two-week RAG prototype to a full AI product build.
 
-**Agentic AI & Automation:**
-- [Weather Agent](https://github.com/MSMuneerIqbal/Weather-Agent-with-Chainlit-OpenAI-Agent-SDK)
-- [Market Trends Analyst](https://github.com/MSMuneerIqbal/Market_Trends_Analyst_Agent)
-- [Agent Skills Repository](https://github.com/MSMuneerIqbal/Agent-skills)
-
-**Generative AI & RAG:**
-- [Chat with Documents](https://github.com/MSMuneerIqbal/chat-with-your-documents)
-- [Document Query Assistant](https://github.com/MSMuneerIqbal/Document-QueryAssistant-groundx-gemini-streamlit)
-- [Multi-Search RAG Tool](https://github.com/MSMuneerIqbal/MultiSearch-Tool-RAG-WEB)
-- [RAG with Streamlit & Groq](https://github.com/MSMuneerIqbal/Rag-streamlit-groq-Embed-localhf)
-
-**Machine Learning & Data Science:**
-- [Heart Disease Classification](https://github.com/MSMuneerIqbal/streamlit_heart_disease-classification-project)
-- [Machine Learning Practice](https://github.com/MSMuneerIqbal/Machine-Learning-Practice)
-- [Image Restoration](https://github.com/MSMuneerIqbal/Image-Restoration-DL_Autoencoders)
-- [English Learning Bot](https://github.com/MSMuneerIqbal/Ai-Based-English-Learning-Bot-GenAi-Hackathon-prject)
-- [Sentiment Analysis](https://github.com/MSMuneerIqbal/Sentiments-Analysis-NoteBooks-Daraz-productData)
-
-**Full-Stack Web Applications:**
-- [Portfolio Website](https://github.com/MSMuneerIqbal/portfolio-web)
-- [Kashibaba.pk](https://github.com/MSMuneerIqbal/kashibaba.pk)
-- [DeFi Dashboard](https://github.com/MSMuneerIqbal/ginox-defi-dashboard-main)
-
-**Business Applications:**
-- [7-Star Computer Shop POS](https://github.com/MSMuneerIqbal/7star-computer-shop-pos)
-- [Inventory Management](https://github.com/MSMuneerIqbal/7star-shop-inventory)
-- [Warehouse Stock App](https://github.com/MSMuneerIqbal/7starwarehouse-raw-stock-app)
-
-**Learning & Educational:**
-- [Learn Generative AI](https://github.com/MSMuneerIqbal/learn-generative-ai)
-- [Learn Modern Python](https://github.com/MSMuneerIqbal/learn-modern-python)
-- [Learn Cloud-Native Python](https://github.com/MSMuneerIqbal/learn-cloud-native-modern-python)
-- [Learn Fine-tuning LLMs](https://github.com/MSMuneerIqbal/learn-fine-tuning-llms)
-- [Low-Code Agentic AI](https://github.com/MSMuneerIqbal/learn-low-code-agentic-ai)
-
-**Chatbots & Conversational AI:**
-- [Chainlit LiteLLM Bot](https://github.com/MSMuneerIqbal/chainlit-litellm-bot)
-- [Web Search Chat Bot](https://github.com/MSMuneerIqbal/websearch-chat-Bot)
-
----
-
-## 💡 Current Working On
-
-- 🔄 Building advanced agentic AI systems with multi-agent orchestration
-- 🔄 Fine-tuning LLMs for domain-specific applications
-- 🔄 Developing RAG systems for enterprise document processing
-- 🔄 Creating low-code agentic AI solutions with n8n
-- 🔄 Building AI-powered SaaS platforms
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always interested in:
-- 🤖 Building AI-powered applications
-- 💼 SaaS and enterprise solutions
-- 🌐 Open-source contributions
-- 📚 Mentoring and knowledge sharing
-- 🎯 Innovative AI projects
-
----
-
-## 📮 Get In Touch
+**Good fits:** AI agents and workflow automation · document intelligence and RAG · MCP integrations · AI-powered SaaS · ML models with a usable interface.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneeriqbal729/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneeriqbal729@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://muneer-iqbal.vercel.app)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923045820729)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muneeriqbal24)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Muneer-Iqbal)
+<a href="mailto:muneeriqbal729@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/923045820729"><img src="https://img.shields.io/badge/WhatsApp%20+92%20304%205820729-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/muneeriqbal729/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-### 📧 Email me: **muneeriqbal729@gmail.com**
-### 💬 Chat on WhatsApp: **[+92 304 5820729](https://wa.me/923045820729)**
+<br/><br/>
 
-</div>
+<sub>⭐ If something here is useful to you, a star is always appreciated.</sub>
 
----
-
-<div align="center">
-
-## ⭐ If you find my work interesting, please give it a star!
-
-**Made with ❤️ by Muneer Iqbal**
-
-*Last Updated: June 2025*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d8ff,50:0e75b6,100:0f172a&height=110&section=footer" width="100%" alt=""/>
 
 </div>
