@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:00d8ff&height=190&section=header&text=Muneer%20Iqbal&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Agentic%20AI%20Engineer%20%7C%20GenAI%20%26%20RAG%20%7C%20Full-Stack&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="Muneer Iqbal — Agentic AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:00d8ff&height=190&section=header&text=Muneer%20Iqbal&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Agentic%20AI%20Engineer%20%7C%20GenAI%20and%20RAG%20%7C%20Full-Stack&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="Muneer Iqbal — Agentic AI Engineer"/>
 
 <a href="https://muneer-iqbal.vercel.app">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D8FF&center=true&vCenter=true&width=620&lines=I+build+AI+agents+that+do+real+work.;RAG+systems+over+your+own+documents.;Multi-agent+automation%2C+shipped+to+production.;Full-stack+apps+with+AI+built+in." alt="Typing SVG"/>
@@ -171,10 +171,10 @@ Right now I'm building agentic AI systems at **Semantechs**, co-founding **Webot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MSMuneerIqbal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=MSMuneerIqbal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSMuneerIqbal&theme=tokyonight" alt="GitHub profile summary"/>
 
-<img src="https://streak-stats.demolab.com?user=MSMuneerIqbal&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSMuneerIqbal&theme=tokyonight" alt="Top languages by repo"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSMuneerIqbal&theme=tokyonight" alt="Top languages by commit"/>
 
 </div>
 
