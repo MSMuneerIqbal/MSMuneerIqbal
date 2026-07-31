@@ -206,7 +206,7 @@ All exams below are independently verifiable on my
 | BS (ADP) Artificial Intelligence — CGPA 3.48 / 4.00 | The Islamia University of Bahawalpur | 2022 – 2024 |
 | BCS, Computer Science | Govt. Degree College, Dunyapur | 2019 – 2022 |
 
-📄 [**View full CV**](https://drive.google.com/file/d/1-P8tWUAzVaUTRjL-JLC9foBHte-XxMTV/view?usp=drive_link)
+📄 [**View full CV**](https://drive.google.com/file/d/1CgiCAF7Vu6qtKUCbAJJVfiSftsMqvjx1/view?usp=drive_link)
 
 ---
 
