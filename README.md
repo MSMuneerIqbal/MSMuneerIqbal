@@ -33,7 +33,7 @@ I'm an **Agentic AI Engineer** who ships AI that actually runs in production —
 
 I design **autonomous multi-agent systems**, **RAG pipelines** over private documents, and the **full-stack apps** that put them in front of real users. I work end to end: model and agent orchestration, FastAPI backends, Next.js frontends, and deployment.
 
-Since January 2026 I've been leading the AI division at **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)**, building agentic AI systems at **Semantechs**, retail software at **7Star Laptop Battery Station**, and a UAE-based SaaS platform at **OptifyServe**. Before that: **BS (ADP) Artificial Intelligence** at The Islamia University of Bahawalpur, and Agentic AI engineering at **PIAIC** — [5 certifications, independently verified](https://panaversity.org/p/muneeriqbal729-lf7k).
+I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)** (since Sep 2025), and since January 2026 I've also been building agentic AI systems at **Semantechs**, retail software at **7Star Laptop Battery Station**, and a UAE-based SaaS platform at **OptifyServe**. Before that: **BS (ADP) Artificial Intelligence** at The Islamia University of Bahawalpur, and Agentic AI engineering at **PIAIC** — [5 certifications, independently verified](https://panaversity.org/p/muneeriqbal729-lf7k).
 
 > 💬 **Have a problem you want automated?** [Email me](mailto:muneeriqbal729@gmail.com) or [message on WhatsApp](https://wa.me/923045820729) — I reply within 24 hours.
 
@@ -151,7 +151,7 @@ Since January 2026 I've been leading the AI division at **[WeboTech Studio](http
 
 | Role | Organisation | Since | Focus |
 |:--|:--|:--|:--|
-| Lead AI Engineer | **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)** | Jan 2026 | Leading the AI & automation division — ML models, AI agents, chatbots, custom integrations |
+| Lead AI Engineer | **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)** | Sep 2025 | Leading the AI & automation division — ML models, AI agents, chatbots, custom integrations |
 | AI Agent Engineer | **Semantechs** | Jan 2026 | Multi-agent orchestration, MCP servers, and AI assistants for enterprise clients |
 | Software Engineer | **7Star Laptop Battery Station** | Jan 2026 | POS suite, warehouse stock systems, and the 7starbattery.pk platform |
 | SaaS Application Developer | **OptifyServe** | Jan 2026 | UAE-based business optimisation and automation SaaS |
