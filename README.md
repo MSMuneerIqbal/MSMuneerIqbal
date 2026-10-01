@@ -33,7 +33,7 @@ I'm an **Agentic AI Engineer** who ships AI that actually runs in production —
 
 I design **autonomous multi-agent systems**, **RAG pipelines** over private documents, and the **full-stack apps** that put them in front of real users. I work end to end: model and agent orchestration, FastAPI backends, Next.js frontends, and deployment.
 
-I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)** (since Sep 2025), and since January 2026 I've also been building agentic AI systems at **Semantechs** and retail software at **7Star Laptop Battery Station**. Before that: **BS (ADP) Artificial Intelligence** at The Islamia University of Bahawalpur, and Agentic AI engineering at **PIAIC** — [5 certifications, independently verified](https://panaversity.org/p/muneeriqbal729-lf7k).
+I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)** (since Sep 2025), and since January 2026 I've also been building agentic AI systems at **Semantechs** and retail software at **7Star Laptop Battery Station**. Currently pursuing an **MS in Data Science** at The Islamia University of Bahawalpur, after a **BS (ADP) Artificial Intelligence** there and Agentic AI engineering at **PIAIC** — [5 certifications, independently verified](https://panaversity.org/p/muneeriqbal729-lf7k).
 
 > 💬 **Have a problem you want automated?** [Email me](mailto:muneeriqbal729@gmail.com) or [message on WhatsApp](https://wa.me/923045820729) — I reply within 24 hours.
 
@@ -203,6 +203,7 @@ All exams below are independently verifiable on my
 
 | Credential | Institution | Year |
 |:--|:--|:--|
+| MS Data Science *(in progress)* | The Islamia University of Bahawalpur | 2026 – Present |
 | [Certified Cloud Applied Generative AI Engineer](https://panaversity.org/p/muneeriqbal729-lf7k) | PIAIC — Presidential Initiative for AI & Computing | 2024 – 2025 |
 | BS (ADP) Artificial Intelligence — CGPA 3.48 / 4.00 | The Islamia University of Bahawalpur | 2022 – 2024 |
 | BCS, Computer Science | Govt. Degree College, Dunyapur | 2019 – 2022 |
