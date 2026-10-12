@@ -106,6 +106,8 @@ I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/mu
 
 | Project | What it does | Stack |
 |:--|:--|:--|
+| **Hospital Organizational Brain** 🔒 | Three production AI services for a hospital: an assistant with RAG plus 47 live database tools over MCP, a document ingestion agent with human approval, and a multi-tenant agentic search that returns cited answers | Python · OpenAI Agents SDK · FastMCP · Qdrant · Pinecone · MongoDB |
+| **7Star E-commerce AI Agents** 🔒 — [🔗 live store](https://7starbattery.pk) | Product description, SEO and blog writer agents, a blog translator, and a store assistant that answers from the catalogue — every draft is human-reviewed | Python · FastAPI · OpenAI Agents SDK · DeepSeek · Gemini |
 | **[Weather Agent](https://github.com/MSMuneerIqbal/Weather-Agent-with-Chainlit-OpenAI-Agent-SDK)** | Conversational agent that calls a live weather API through function calling and answers in natural language | Python · OpenAI Agents SDK · Chainlit · Gemini |
 | **[Market Trends Analyst](https://github.com/MSMuneerIqbal/Market_Trends_Analyst_Agent)** | Multi-agent crew that gathers market data and produces an analyst-style trend report | Python · CrewAI |
 | **[Agent Skills](https://github.com/MSMuneerIqbal/Agent-skills)** | Reusable skill definitions and tooling for agent workflows | Python · Agent SDK |
@@ -118,7 +120,7 @@ I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/mu
 | **[Chat with Your Documents](https://github.com/MSMuneerIqbal/chat-with-your-documents)** | LangChain RAG pipeline for conversational document Q&A | Python · LangChain · LLMs |
 | **[RAG with Groq + Local Embeddings](https://github.com/MSMuneerIqbal/Rag-streamlit-groq-Embed-localhf)** | Fast RAG using Groq inference with local Hugging Face embeddings — low cost, low latency | Python · Groq · HF · Streamlit |
 | **[Islamic Inheritance MCP Server](https://github.com/MSMuneerIqbal/Islamic-Inheritance-pdf-report-generator-MCP-Server)** | FastMCP server exposing a `calculate_inheritance` tool — Hanafi cash/land shares down to fractional Marla, output as a PDF report | Python · FastMCP · ReportLab |
-| **[Multi-Search RAG Tool](https://github.com/MSMuneerIqbal/MultiSearch-Tool-RAG-WEB)** | Retrieval across multiple web sources, merged into one grounded answer | Python · RAG · Web APIs |
+| **[Multi-Search RAG Tool](https://github.com/MSMuneerIqbal/MultiSearch-Tool-RAG-WEB)** | Chat with your PDFs (answers grounded in the document) plus live web search through the Tavily API | Python · LangChain · Google GenAI · Streamlit |
 
 ### 🧠 Machine Learning & Computer Vision
 
@@ -139,7 +141,7 @@ I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/mu
 | **[7Star Shop Inventory](https://github.com/MSMuneerIqbal/7star-shop-inventory)** | Real-time stock tracking for a retail computer shop | Python · Database |
 | **[Bookshop Inventory](https://github.com/MSMuneerIqbal/Inventry-management-Bookshop)** | Inventory management for bookshop operations | HTML · CSS · Database |
 
-<sub>🔒 Additional client work is in private repos — Qyra agentic AI MVP, Hospital AI Assistant, Upwork Proposal Agent, Agentic AI Tutor, OptifyServe SaaS, and the 7Star POS suite. Happy to walk through these on a call.</sub>
+<sub>🔒 Additional client work is in private repos — Qyra agentic AI MVP, Upwork Proposal Agent, Agentic AI Tutor, OptifyServe SaaS, and the 7Star POS suite. Happy to walk through these on a call.</sub>
 
 ### 📖 Learning Resources I Maintain
 
