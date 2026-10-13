@@ -107,7 +107,7 @@ I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/mu
 | Project | What it does | Stack |
 |:--|:--|:--|
 | **Hospital Organizational Brain** 🔒 | Three production AI services for a hospital: an assistant with RAG plus 47 live database tools over MCP, a document ingestion agent with human approval, and a multi-tenant agentic search that returns cited answers | Python · OpenAI Agents SDK · FastMCP · Qdrant · Pinecone · MongoDB |
-| **7Star E-commerce AI Agents** 🔒 | Product description, SEO and blog writer agents, a blog translator, and a store assistant that answers from the catalogue — every draft is human-reviewed | Python · FastAPI · OpenAI Agents SDK · DeepSeek · Gemini |
+| **7Star E-commerce Store & AI Agents** — [🔗 live store](https://7starbattery.pk) | The complete online store we built for a laptop battery business: an automated admin panel where AI agents write product descriptions, SEO tags and blog posts for review, plus an AI shopping assistant for customers | Next.js · FastAPI · OpenAI Agents SDK · PostgreSQL · Redis |
 | **[Weather Agent](https://github.com/MSMuneerIqbal/Weather-Agent-with-Chainlit-OpenAI-Agent-SDK)** | Conversational agent that calls a live weather API through function calling and answers in natural language | Python · OpenAI Agents SDK · Chainlit · Gemini |
 | **[Market Trends Analyst](https://github.com/MSMuneerIqbal/Market_Trends_Analyst_Agent)** | Multi-agent crew that gathers market data and produces an analyst-style trend report | Python · CrewAI |
 | **[Agent Skills](https://github.com/MSMuneerIqbal/Agent-skills)** | Reusable skill definitions and tooling for agent workflows | Python · Agent SDK |
@@ -156,7 +156,7 @@ I lead the AI division at **[WeboTech Studio](https://webotechstudio.com/team/mu
 | Lead AI Engineer | **[WeboTech Studio](https://webotechstudio.com/team/muneer-iqbal)** | Sep 2025 – present | Leading the AI & automation division — ML models, AI agents, chatbots, custom integrations |
 | Agentic AI Engineer | **Semantechs** | Jan 2026 – present | Multi-agent orchestration, MCP servers, and AI assistants for enterprise clients |
 
-**Previously** — Senior Software Engineer at **7Star Laptop Battery Station** (Jan – Sep 2026 · POS suite and warehouse stock systems) · SaaS Application Developer at **OptifyServe** (Dubai, UAE · Feb – Jun 2026) · AI Engineer Intern at **Innovidio** (Mar – Jul 2025)
+**Previously** — Senior Software Engineer at **7Star Laptop Battery Station** (Jan – Sep 2026 · POS suite, warehouse stock systems and the [7starbattery.pk](https://7starbattery.pk) store) · SaaS Application Developer at **OptifyServe** (Dubai, UAE · Feb – Jun 2026) · AI Engineer Intern at **Innovidio** (Mar – Jul 2025)
 
 ---
 
